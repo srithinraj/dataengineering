@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflixproject-sr",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f9863db-be2f-4e22-a9b8-00e73188f97f",
+		"tenantId": "576df0f3-2867-4509-b258-1553974feba5"
+	}
+}
